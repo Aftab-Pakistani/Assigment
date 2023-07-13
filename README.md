@@ -1,6 +1,6 @@
 # Assigment
 
-## What i use this task
+## What i use in this task
 1.redux
 2.Animated
 3.MapView
