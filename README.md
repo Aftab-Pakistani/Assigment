@@ -12,6 +12,11 @@
 **npm install**
 ## How to use
 **npx react-native run-android**
+## Video
+
+
+https://github.com/Aftab-Pakistani/Assigment/assets/64377946/fe324a77-c31c-4c36-a552-3ee922f960e2
+
 
 ## Screenshots
 ![2](https://github.com/Aftab-Pakistani/Assigment/assets/64377946/f0cc457f-61e1-4059-bc8b-99b2a1efbec3)
